@@ -16,5 +16,5 @@ x = {
 # convert into JSON:
 y = json.dumps(x)
 
-# the result is a JSON string:
+# the result is a JSON string: 
 print(y)
