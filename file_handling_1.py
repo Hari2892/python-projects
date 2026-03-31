@@ -1,0 +1,1 @@
+f = open("/var/www/html/python-projects/test.txt", "rt")

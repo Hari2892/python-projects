@@ -1,0 +1,5 @@
+f = open("/var/www/html/python-projects/test.txt")
+print(f.readline())
+print(f.readline())
+print(f.readline())
+f.close()

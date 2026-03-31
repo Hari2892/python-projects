@@ -1,0 +1,1 @@
+f = open("/var/www/html/python-projects/test2.txt", "x") # A new empty file is created with name test2
