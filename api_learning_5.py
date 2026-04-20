@@ -1,0 +1,13 @@
+import requests
+
+# API with headers (authentication)
+
+url = "https://api.example.com/data"
+
+headers = {
+    "Authorization": "Bearer YOUR_API_KEY"
+}
+
+response = requests.get(url, headers=headers)
+
+print(response.json())
